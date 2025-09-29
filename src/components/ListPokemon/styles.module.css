@@ -1,0 +1,25 @@
+.item {
+  padding: 16px;
+  cursor: pointer;
+  border: 1px solid var(--border-color);
+}
+
+.active {
+  background-color: var(--primary-color);
+  color: var(--contrast-text-color);
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  align-items: center;
+}
+
+.button {
+  padding: 8px 16px;
+  border: 1px solid var(--border-color);
+  cursor: pointer;
+  color: var(--contrast-text-color);
+  background-color: var(--primary-color);
+}
