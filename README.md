@@ -3,6 +3,8 @@
 This repository is an **interview coding exercise** implemented with **Next.js 15**.  
 The application demonstrates how to build a Pokémon list page with server-side fetching, filtering, and pagination.
 
+👉 **Live Demo:** [https://pokemon-interview.vercel.app/](https://pokemon-interview.vercel.app/)
+
 ---
 
 ## Features
@@ -41,6 +43,12 @@ The application demonstrates how to build a Pokémon list page with server-side 
 ---
 
 ## Getting Started
+
+Install dependencies:
+
+```bash
+yarn install
+```
 
 Run the development server:
 
